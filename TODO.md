@@ -1,0 +1,9 @@
+- new logo
+- add background objects
+- game over sound
+- unstable tower
+- long hook wire
+- change UI
+- change kaplay default loading animation
+- add best score and current score and new best score
+- hook has only one floor
